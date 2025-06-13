@@ -1,0 +1,8 @@
+*.egg-info/
+dist/
+.web
+assets/external/
+__pycache__/
+*.db
+*.py[cod]
+.states
